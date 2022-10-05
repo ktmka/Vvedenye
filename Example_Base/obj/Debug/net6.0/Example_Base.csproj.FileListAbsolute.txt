@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example_Base\bin\Debug\net6.0\Example_Base.exe
+D:\GB\Знакомство с ЯП\Examples\Example_Base\bin\Debug\net6.0\Example_Base.deps.json
+D:\GB\Знакомство с ЯП\Examples\Example_Base\bin\Debug\net6.0\Example_Base.runtimeconfig.json
+D:\GB\Знакомство с ЯП\Examples\Example_Base\bin\Debug\net6.0\Example_Base.dll
+D:\GB\Знакомство с ЯП\Examples\Example_Base\bin\Debug\net6.0\Example_Base.pdb
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.dll
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\refint\Example_Base.dll
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.pdb
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\Example_Base.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\Examples\Example_Base\obj\Debug\net6.0\ref\Example_Base.dll
