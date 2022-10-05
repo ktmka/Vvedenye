@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\bin\Debug\net6.0\Example_IfElse.exe
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\bin\Debug\net6.0\Example_IfElse.deps.json
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\bin\Debug\net6.0\Example_IfElse.runtimeconfig.json
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\bin\Debug\net6.0\Example_IfElse.dll
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\bin\Debug\net6.0\Example_IfElse.pdb
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.dll
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\refint\Example_IfElse.dll
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.pdb
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\Example_IfElse.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\Examples\Example_IfElse\obj\Debug\net6.0\ref\Example_IfElse.dll
