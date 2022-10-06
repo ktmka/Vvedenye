@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.exe
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.deps.json
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.runtimeconfig.json
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.dll
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.pdb
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.dll
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\refint\Example010_Methods.dll
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.pdb
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\Examples\Example010_Methods\obj\Debug\net6.0\ref\Example010_Methods.dll
