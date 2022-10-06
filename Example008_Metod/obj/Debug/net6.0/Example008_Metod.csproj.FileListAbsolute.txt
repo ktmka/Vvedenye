@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.exe
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.deps.json
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.runtimeconfig.json
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.dll
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.pdb
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.dll
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\refint\Example008_Metod.dll
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.pdb
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\Examples\Example008_Metod\obj\Debug\net6.0\ref\Example008_Metod.dll
