@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.exe
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.deps.json
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.runtimeconfig.json
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.dll
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.pdb
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.dll
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\refint\Example009_Array.dll
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.pdb
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\Examples\Example009_Array\obj\Debug\net6.0\ref\Example009_Array.dll
